@@ -4,6 +4,9 @@ import (
 	"fmt"
 )
 func init() {
+}
+
+func get() {}
 
 }
 func main() {
