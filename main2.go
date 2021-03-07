@@ -12,3 +12,8 @@ func main() {
 func sum2(num int) int {
 	return num*2
 }
+
+
+func sum3(num int) int {
+	return num*2
+}
